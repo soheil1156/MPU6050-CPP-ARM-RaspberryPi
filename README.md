@@ -30,7 +30,7 @@ If these libraries are not already installed, you can install them using the pac
 
 2- Clone the repository to your local machine:
 
-```git clone [https://github.com/your-username/MPU6050-CPP-ARM-RaspberryPi.git](https://github.com/soheil1156/MPU6050-CPP-ARM-RaspberryPi.git)```
+```git clone https://github.com/soheil1156/MPU6050-CPP-ARM-RaspberryPi.git```
 
 3- Navigate to the project directory:
 

@@ -68,6 +68,10 @@ Please note that this repository is provided as-is and without any warranties or
 MPU6050 Datasheet: Official datasheet for the MPU6050 sensor.
 Linux I2C Documentation: Documentation for using I2C on Linux.
 
+
+
+
+
 <p align="center">
   <img src="https://github.com/soheil1156/MPU6050-CPP-ARM-RaspberryPi/assets/24310606/912ceb90-c31e-47b8-ae4d-12425354d05a" alt="Vibration Analysis" width="400">
 </p>

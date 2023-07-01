@@ -22,7 +22,7 @@ To build and run the MPU6050-CPP-ARM-RaspberryPi software, follow these steps:
 * C++ Compiler (e.g., GCC)
 If these libraries are not already installed, you can install them using the package manager for your specific Linux distribution. For example, on Debian-based systems, you can use the following command:
 
-sudo apt-get install libi2c-dev g++
+```sudo apt-get install libi2c-dev g++```
 
 2- Clone the repository to your local machine:
 

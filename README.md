@@ -26,21 +26,21 @@ If these libraries are not already installed, you can install them using the pac
 
 2- Clone the repository to your local machine:
 
-git clone https://github.com/your-username/MPU6050-CPP-ARM-RaspberryPi.git
+```git clone https://github.com/your-username/MPU6050-CPP-ARM-RaspberryPi.git```
 
 3- Navigate to the project directory:
 
-cd MPU6050-CPP-ARM-RaspberryPi
+```cd MPU6050-CPP-ARM-RaspberryPi```
 
 4- Build the code using the provided Makefile:
 
-make
+```make```
 
 This command will invoke the Makefile, which contains the necessary build instructions. It will compile the code and create an executable named MPU6050.
 
 5- Run the executable:
 
-./MPU6050
+```./MPU6050```
 
 The code will interface with the MPU6050 sensor and display the sensor measurements.
 

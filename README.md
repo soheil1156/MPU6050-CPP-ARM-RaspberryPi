@@ -6,6 +6,9 @@ This repository contains minimal C++ code for interfacing with the MPU6050 senso
 
 The MPU6050 is a commonly used accelerometer and gyroscope module. This code provides basic functionalities to initialize the sensor, read raw data from the accelerometer and gyroscope, and calculate sensor measurements. It serves as a starting point for incorporating MPU6050 functionality into C++ projects on ARM platforms.
 
+![image](https://github.com/soheil1156/MPU6050-CPP-ARM-RaspberryPi/assets/24310606/912ceb90-c31e-47b8-ae4d-12425354d05a)
+
+
 ## Features
 
 - Initialization of the MPU6050 sensor
@@ -43,6 +46,13 @@ This command will invoke the Makefile, which contains the necessary build instru
 ```./MPU6050```
 
 The code will interface with the MPU6050 sensor and display the sensor measurements.
+
+## MATLAB Vibration Analysis
+
+![MPU6050_FREQ](https://github.com/soheil1156/MPU6050-CPP-ARM-RaspberryPi/assets/24310606/cbcf55cc-7cac-4c32-bfa9-b4ef32ef300c)
+
+Description: This image showcases the results of a vibration analysis conducted using MATLAB. The analysis was performed using the MPU6050-CPP-ARM-RaspberryPi software developed in C++. The image demonstrates the vibration waveform and provides insights into the vibration characteristics.
+
 
 ## Contributing
 Contributions to this repository are welcome. If you have any improvements or bug fixes, feel free to submit a pull request. For major changes, please open an issue first to discuss the proposed changes.

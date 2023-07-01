@@ -66,7 +66,9 @@ Please note that this repository is provided as-is and without any warranties or
 
 ## Acknowledgements
 MPU6050 Datasheet: Official datasheet for the MPU6050 sensor.
+
 Linux I2C Documentation: Documentation for using I2C on Linux.
+
 
 
 
